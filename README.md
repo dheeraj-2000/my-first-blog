@@ -1,2 +1,2 @@
 # my-first-blog
-This is a blog developed using django
+'This is a blog developed using django'
